@@ -1,0 +1,1 @@
+[26-Sep-2017 17:36:35 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/gfincpnt/public_html/welfareclub.org/application/controllers/registration.php on line 5

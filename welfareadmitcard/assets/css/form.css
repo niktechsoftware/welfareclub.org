@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+form{margin:0; padding:10px;}
+
+input[type=checkbox]{
+    margin:5px !important;
+}
+.marks{
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 30px;
+    margin-left:5px;
+}
+input[type=text], 
+input[type=password], 
+input[type=email], 
+textarea, 
+select
+	{
+		background:#fff;
+		border:solid 1px #ddd;
+		padding:9px 12px;
+		transition:all 0.5s ease-in-out 0s;
+	}
+textarea{resize:none; margin:0;}	
+select{padding:5px;margin-left:10px;}
+input[type=text]:focus, 
+input[type=password]:focus, 
+input[type=email]:focus, 
+textarea:focus, 
+select:focus{outline:none;box-shadow:none;border:solid 1px #eee;}
+
+input[type=submit], 
+input[type=button], 
+button
+	{
+		background:#6d86c1;
+		border:none;
+		color:#fff; 
+		font-weight:700;
+		font-size:14px;
+		padding:8px 15px;
+		cursor:pointer;
+		transition:all 0.5s ease-in-out 0s;
+		text-transform:uppercase;
+		-webkit-appearance: none;
+		vertical-align:middle;
+		margin:0;
+	}
+
+input[type=submit]:hover, 
+input[type=button]:hover, 
+button:hover	{background: #8aa8ed;}
+span.req{color:#f00;}
+input.error{border-color:#f00;}
+span.error-msg{color:#f00;}
+
+
+#quick-contact p{clear:both; padding:0; margin-bottom:2px;}
+#quick-contact input[type=text],
+#quick-contact textarea
+	{
+		background:#414141;
+		border:1px solid #4b4b4b;
+		width:90%;
+	}
+#quick-contact textarea{height:80px;}
+#quick-contact input[type=submit]{float:right; margin-right:3px;}
+form.search p{text-align:center; color:#333; padding:5px 0 20px 0;}
+form.search select
+	{
+		display:inline-block;
+		min-width:200px;
+		border:solid 1px #ddd;
+		margin:0 5px;
+	}
+form.search input[type=submit]
+	{
+		background:#6d86c1 url("../images/search-icon.html") no-repeat 10px 8px;
+		border-bottom:solid 3px #38317f;
+		border-radius:3px;
+		padding:5px 15px 5px 25px;
+	}
+div.enquiry{float:right; width:48%; border:solid 1px #ddd; padding:4px;}
+div.enquiry p{padding:0 10px 10px 10px;}
+div.enquiry p > label{display:block;}
+div.enquiry p select{}
+div.enquiry p input[type=text]{width:90%;}
+div.enquiry p.full input[type=text]{width:95%;}
+div.enquiry p textarea{width:95%; height:90px;}
+
+fieldset
+	{
+		margin:0 0 20px 0;
+		padding:10px;
+		border:solid 1px #ddd;	
+	}
+legend
+	{
+		background:#484491;
+		border-radius:3px;
+		font-weight:700;
+		color:#fff;
+		text-transform:uppercase;
+		padding:5px 15px;
+	}
+.upload-resume p{clear:both;}
+.upload-resume label{float:left; width:150px;}
+.upload-resume input[type=text],
+.upload-resume input[type=password]
+	{width:40%; float:left;}	
+.upload-resume span.error-msg {
+    clear: both;
+    display: block;
+    margin-left: 150px;
+}
+.upload-resume textarea{width:90%; height:100px;}
+.popup-modal-dismiss
+	{
+		position:absolute;
+		top:-10px;
+		right:-10px;
+		height:20px;
+		width:20px;
+		background:#fff;
+		border:solid 2px #333;
+		border-radius:100%;
+		display:inline-block;
+		line-height:20px;
+		text-align:center;
+	}
+.req p label{float:left; width:120px;}
+.req p input[type=text]{width:400px;}
+.req p textarea
+	{
+		width:90%;
+		clear:both;
+		height:100px;
+	}
+	
+.note{
+  font-weight: 600
+}
+form li{
+  margin-top: 10px;
+  line-height:2;
+}
+.wrapper{
+width:95%;
+margin:0 auto;
+
+}
+p label{
+float:left;
+display:inline-block;
+}
+ul{
+list-style:none;
+  margin:0;
+  padding: 0;
+}
+form li ul{
+  margin-left: 20px
+}
+table{
+  width:90% 
+}
+table td{
+text-align:center;
+}
+
+table input[type="text"]{
+  width:120px;  
+}
+p label{
+width:250px;}
+
+.myCheckbox input {
+    display: none;
+}
+
+.myCheckbox span {
+    width: 20px;
+    height: 20px;
+    display: block;
+    background: url("images/uncheck.jpg");
+}
+
+.myCheckbox input:checked + span {
+    background: url("images/Checkbox.jpg");
+}
+
+

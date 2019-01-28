@@ -1,0 +1,374 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+a {
+	outline: none;
+	text-decoration: none;
+}
+img {
+	border: 0px;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+body {
+	color: #666;
+	font-size: 12px;
+	line-height: 18px;
+	text-align: center;
+	background-color: #fff;
+	border-top: 5px solid #be032e;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+#wrapper {
+	margin: auto;
+	width: 1000px;
+	text-align: left;
+}
+#main {
+	float: left;
+	width: 1000px;
+	text-align: left;
+}
+.top {
+	float: left;
+	width: 1000px;
+	padding: 10px 0px 0px 0px;
+}
+.logo {
+	float: left;
+	width: 680px;
+}
+.top_rht {
+	float: right;
+	width: 290px;
+}
+.translate {
+	width: 100%;
+	float: right;
+	text-align: right;
+}
+.topnavi {
+	width: 100%;
+	float: right;
+	font-size: 9px;
+	text-align: right;
+	line-height: 30px;
+	text-transform: uppercase;
+	padding: 20px 0px 0px 0px;
+}
+.topnavi a {
+	color: #555;
+	margin: 0px 5px;
+}
+.topnavi a:hover {
+	text-decoration: underline;
+}
+#backgroundPopup {
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	display: none;
+	position: fixed;
+	_position: absolute;
+	background: url(../images/pop_bg.png) 0px 0px repeat;
+}
+#popupContact {
+	width: 450px;
+	z-index: 1100;
+	display: none;
+	padding: 5px;
+	position: fixed;
+	_position: absolute;
+	background-color: #fff;
+	margin: 0px 0px 0px 45%;
+	border: 3px solid #5cb12f;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+#popupContactClose {
+	top: 10px;
+	right: 10px;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	font-size: 24px;
+	position: absolute;
+	border: 1px solid #ccc;
+	padding: 5px 5px 2px 5px;
+}
+#popupdetail {
+	float: left;
+	width: 100%;
+}
+.menu_bg {
+	float: left;
+	width: 100%;
+	text-align: left;
+	margin: 20px 0px 0px 0px;
+	background-color: #033865;
+}
+#mainmenu {
+	margin: auto;
+	width: 1000px;
+}
+.scroll_bg {
+	float: left;
+	width: 100%;
+	background-color: #555;
+}
+.scroll_bg p {
+	color: #fff;
+	padding: 7px 0px;
+}
+.scroll_bg a {
+	color: #fff;
+	text-decoration: none;
+}
+.scroll_bg a:hover {
+	text-decoration: underline;
+}
+.banner_bg {
+	float: left;
+	width: 100%;
+}
+.rslides {
+	width: 100%;
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+}
+.rslides li {
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: none;
+	position: absolute;
+	-webkit-backface-visibility: hidden;
+}
+.rslides li:first-child {
+	float: left;
+	display: block;
+	position: relative;
+}
+.rslides img {
+	width: 100%;
+	float: left;
+	height: auto;
+	display: block;
+}
+.prev, .next {
+	top: 480px;
+	width: 50px;
+	height: 50px;
+	z-index: 2000;
+	position: absolute;
+	background: url(../images/arr_lft.png) 0 0 no-repeat;
+}
+.prev {
+	left: 0px;
+}
+.next {
+	right: 0px;
+	background: url(../images/arr_rht.png) 0 0 no-repeat;
+}
+.content {
+	float: left;
+	width: 1000px;
+	padding: 20px 0px;
+}
+.content h1 {
+	color: #222;
+	font-size: 22px;
+	padding: 10px 0px 2px 0px;
+	border-bottom: 1px solid #d0d0d0;
+}
+.one {
+	float: left;
+	width: 800px;
+	border-bottom: 2px solid #033865;
+	background: url(../images/news_bg.jpg) right bottom no-repeat;
+}
+.title {
+	float: left;
+	width: 200px;
+	height: 142px;
+	padding-top : 40px;
+	text-align: center;
+	background-color: #be032e;
+}
+.title a:hover img {
+	opacity: 0.7;
+	-moz-opacity: 0.7;
+	khtml-opacity: 0.7;
+	filter: alpha(opacity=70);
+	-ms-filter: "alpha(opacity=70)";
+}
+.content2 {
+	float: left;
+	width: 960px;
+	overflow: hidden;
+	padding: 20px 20px;
+}
+.content2 h1 {
+	color: #222;
+	font-size: 22px;
+	margin-bottom: 20px;
+	padding: 0px 0px 2px 0px;
+	border-bottom: 1px solid #d0d0d0;
+}
+.lft {
+	float: left;
+	width: 500px;
+}
+.rht {
+	float: left;
+	width: 460px;
+}
+.lftimg {
+	float: left;
+	width: 245px;
+}
+.lftcontent {
+	float: left;
+	width: 215px;
+}
+.lftcontent p {
+	padding-left: 20px;
+}
+.lftcontent p a {
+	color: #be032e;
+}
+.lftcontent p a:hover {
+	text-decoration: underline;
+}
+.lftcontent ul {
+	padding: 0px 0px 0px 10px;
+}
+.lftcontent ul li {
+	list-style: none;
+	margin-bottom: 3px;
+}
+.lftcontent ul li a {
+	color: #666;
+	padding: 0px 0px 0px 20px;
+	background: url(../images/arr.gif) 0px 3px no-repeat;
+}
+.lftcontent ul li a:hover {
+	color: #be032e;
+}
+.content1 {
+	float: left;
+	width: 1000px;
+	padding: 50px 0px 30px 0px;
+}
+.content1 h1 {
+	color: #222;
+	font-size: 22px;
+	line-height: 22px;
+	padding: 0px 0px 2px 0px;
+	border-bottom: 1px solid #d0d0d0;
+}
+.con_lft {
+	float: left;
+	width: 800px;
+}
+.con_lft p {
+	width: 400px;
+	line-height: 19px;
+	padding: 10px 0px;
+}
+.con_lft a {
+	color: #be032e;
+}
+.con_lft a:hover {
+	text-decoration: underline;
+}
+.model {
+	float: left;
+	width: 255px;
+	height: 299px;
+	background-color: #be032e;
+}
+.welcome {
+	float: left;
+	width: 445px;
+	height: 297px;
+	padding: 0px 50px;
+	border-bottom: 2px solid #be032e;
+	background: url(../images/welcome_bg.jpg) right bottom no-repeat;
+}
+.links {
+	float: left;
+	width: 200px;
+	height: 247px;
+	text-align: center;
+	border-bottom: 2px solid #747474;
+}
+.links img {
+	border-bottom: 1px solid #ccc;
+}
+.links a img {
+	padding: 4px 0px 5px 0px;
+	background-color: #747474;
+}
+.links a:hover img {
+	background-color: #033865;
+}
+.links .last {
+	border: 0px;
+}
+.events, .events1 {
+	float: left;
+	width: 1000px;
+	padding: 20px 0px;
+	text-align: center;
+}
+.eventsone, .eventsone1, .eventsone2 {
+	width: 16%;
+	float: left;
+}
+.eventsone1 {
+	margin: 0px 1%;
+}
+.eventsone2 {
+	width: 15%;
+	margin-left: 1%;
+}
+.naac, .naac1 {
+	width: 32%;
+	float: left;
+}
+.naac1 {
+	margin: 0px 2%;
+}
+.events h3, .events1 h3 {
+	font-size: 16px;
+}
+.events h3 a, .events1 h3 a {
+	color: #fff;
+	height: 40px;
+	display: block;
+	padding: 10px 5px 0px 5px;
+	background-color: #be032e;
+}
+.events1 h3 a {
+	height: 40px;
+	display: block;
+	margin-bottom: 2px;
+	padding: 10px 5px 0px 5px;
+}
+.events h3 a.eventsodd, .events1 h3 a.eventsodd {
+	background-color: #033865;
+}
+.events h3 a:hover, .events1 h3 a:hover {
+	background-color: #555;
+}

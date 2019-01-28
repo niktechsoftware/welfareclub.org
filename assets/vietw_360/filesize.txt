@@ -1,0 +1,894 @@
+autorun.inf|36
+config_VIETW.bin|56348
+images_VIETW.zip|136652
+map\multilanguage\english.zip|22
+map\multilanguage\france.zip|22
+map\multilanguage\german.zip|22
+map\multilanguage\italy.zip|22
+map\multilanguage\japanese.zip|22
+map\multilanguage\spanish.zip|22
+map\multilanguage\resources\movieclose.swf|2695
+map\multilanguage\resources\swf_303.swf|4734
+map\multilanguage\resources\swf_304.swf|7610
+map\multilanguage\resources\vietw_vivekanandha_1_logo.jpg|116564
+map\multilanguage\resources\resources_VIETW.zip|355417
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_0.jpg|25067
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_1.jpg|21457
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_10.jpg|56314
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_11.jpg|81749
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_12.jpg|37001
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_13.jpg|37046
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_14.jpg|39274
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_15.jpg|37455
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_16.jpg|34092
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_17.jpg|35706
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_2.jpg|29170
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_3.jpg|29077
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_4.jpg|21095
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_5.jpg|24009
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_6.jpg|76648
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_7.jpg|65173
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_8.jpg|83343
+map\multilanguage\resources\scene\1\1_inst of engg & tech - vietw - electronic circuits lab_9.jpg|79630
+map\multilanguage\resources\scene\1\auditorium - over view_0.jpg|56674
+map\multilanguage\resources\scene\1\auditorium - over view_1.jpg|76377
+map\multilanguage\resources\scene\1\auditorium - over view_10.jpg|95515
+map\multilanguage\resources\scene\1\auditorium - over view_11.jpg|45752
+map\multilanguage\resources\scene\1\auditorium - over view_12.jpg|47231
+map\multilanguage\resources\scene\1\auditorium - over view_13.jpg|34398
+map\multilanguage\resources\scene\1\auditorium - over view_14.jpg|35424
+map\multilanguage\resources\scene\1\auditorium - over view_15.jpg|36365
+map\multilanguage\resources\scene\1\auditorium - over view_16.jpg|33434
+map\multilanguage\resources\scene\1\auditorium - over view_17.jpg|60281
+map\multilanguage\resources\scene\1\auditorium - over view_2.jpg|84316
+map\multilanguage\resources\scene\1\auditorium - over view_3.jpg|86527
+map\multilanguage\resources\scene\1\auditorium - over view_4.jpg|77436
+map\multilanguage\resources\scene\1\auditorium - over view_5.jpg|59186
+map\multilanguage\resources\scene\1\auditorium - over view_6.jpg|36454
+map\multilanguage\resources\scene\1\auditorium - over view_7.jpg|100768
+map\multilanguage\resources\scene\1\auditorium - over view_8.jpg|126761
+map\multilanguage\resources\scene\1\auditorium - over view_9.jpg|124043
+map\multilanguage\resources\scene\1\auditorium exterior view_0.jpg|18106
+map\multilanguage\resources\scene\1\auditorium exterior view_1.jpg|18032
+map\multilanguage\resources\scene\1\auditorium exterior view_10.jpg|84821
+map\multilanguage\resources\scene\1\auditorium exterior view_11.jpg|88746
+map\multilanguage\resources\scene\1\auditorium exterior view_12.jpg|62231
+map\multilanguage\resources\scene\1\auditorium exterior view_13.jpg|61979
+map\multilanguage\resources\scene\1\auditorium exterior view_14.jpg|60969
+map\multilanguage\resources\scene\1\auditorium exterior view_15.jpg|59381
+map\multilanguage\resources\scene\1\auditorium exterior view_16.jpg|60158
+map\multilanguage\resources\scene\1\auditorium exterior view_17.jpg|60513
+map\multilanguage\resources\scene\1\auditorium exterior view_2.jpg|17493
+map\multilanguage\resources\scene\1\auditorium exterior view_3.jpg|17544
+map\multilanguage\resources\scene\1\auditorium exterior view_4.jpg|18039
+map\multilanguage\resources\scene\1\auditorium exterior view_5.jpg|17910
+map\multilanguage\resources\scene\1\auditorium exterior view_6.jpg|86522
+map\multilanguage\resources\scene\1\auditorium exterior view_7.jpg|103250
+map\multilanguage\resources\scene\1\auditorium exterior view_8.jpg|103347
+map\multilanguage\resources\scene\1\auditorium exterior view_9.jpg|90291
+map\multilanguage\resources\scene\1\auditorium_0.jpg|137345
+map\multilanguage\resources\scene\1\auditorium_1.jpg|113929
+map\multilanguage\resources\scene\1\auditorium_10.jpg|107155
+map\multilanguage\resources\scene\1\auditorium_11.jpg|128560
+map\multilanguage\resources\scene\1\auditorium_12.jpg|27007
+map\multilanguage\resources\scene\1\auditorium_13.jpg|34987
+map\multilanguage\resources\scene\1\auditorium_14.jpg|38171
+map\multilanguage\resources\scene\1\auditorium_15.jpg|34578
+map\multilanguage\resources\scene\1\auditorium_16.jpg|37926
+map\multilanguage\resources\scene\1\auditorium_17.jpg|33462
+map\multilanguage\resources\scene\1\auditorium_2.jpg|112559
+map\multilanguage\resources\scene\1\auditorium_3.jpg|107294
+map\multilanguage\resources\scene\1\auditorium_4.jpg|125474
+map\multilanguage\resources\scene\1\auditorium_5.jpg|149966
+map\multilanguage\resources\scene\1\auditorium_6.jpg|110115
+map\multilanguage\resources\scene\1\auditorium_7.jpg|99156
+map\multilanguage\resources\scene\1\auditorium_8.jpg|145827
+map\multilanguage\resources\scene\1\auditorium_9.jpg|144447
+map\multilanguage\resources\scene\1\canteen - 1_0.jpg|29458
+map\multilanguage\resources\scene\1\canteen - 1_1.jpg|26390
+map\multilanguage\resources\scene\1\canteen - 1_10.jpg|103896
+map\multilanguage\resources\scene\1\canteen - 1_11.jpg|93283
+map\multilanguage\resources\scene\1\canteen - 1_12.jpg|34259
+map\multilanguage\resources\scene\1\canteen - 1_13.jpg|38453
+map\multilanguage\resources\scene\1\canteen - 1_14.jpg|36975
+map\multilanguage\resources\scene\1\canteen - 1_15.jpg|33843
+map\multilanguage\resources\scene\1\canteen - 1_16.jpg|34904
+map\multilanguage\resources\scene\1\canteen - 1_17.jpg|33519
+map\multilanguage\resources\scene\1\canteen - 1_2.jpg|27049
+map\multilanguage\resources\scene\1\canteen - 1_3.jpg|25613
+map\multilanguage\resources\scene\1\canteen - 1_4.jpg|31300
+map\multilanguage\resources\scene\1\canteen - 1_5.jpg|30497
+map\multilanguage\resources\scene\1\canteen - 1_6.jpg|86168
+map\multilanguage\resources\scene\1\canteen - 1_7.jpg|88750
+map\multilanguage\resources\scene\1\canteen - 1_8.jpg|102049
+map\multilanguage\resources\scene\1\canteen - 1_9.jpg|87542
+map\multilanguage\resources\scene\1\canteen - 2_0.jpg|26147
+map\multilanguage\resources\scene\1\canteen - 2_1.jpg|21809
+map\multilanguage\resources\scene\1\canteen - 2_10.jpg|97354
+map\multilanguage\resources\scene\1\canteen - 2_11.jpg|89182
+map\multilanguage\resources\scene\1\canteen - 2_12.jpg|35851
+map\multilanguage\resources\scene\1\canteen - 2_13.jpg|45441
+map\multilanguage\resources\scene\1\canteen - 2_14.jpg|44227
+map\multilanguage\resources\scene\1\canteen - 2_15.jpg|38962
+map\multilanguage\resources\scene\1\canteen - 2_16.jpg|38384
+map\multilanguage\resources\scene\1\canteen - 2_17.jpg|43921
+map\multilanguage\resources\scene\1\canteen - 2_2.jpg|22538
+map\multilanguage\resources\scene\1\canteen - 2_3.jpg|22558
+map\multilanguage\resources\scene\1\canteen - 2_4.jpg|22700
+map\multilanguage\resources\scene\1\canteen - 2_5.jpg|22926
+map\multilanguage\resources\scene\1\canteen - 2_6.jpg|108160
+map\multilanguage\resources\scene\1\canteen - 2_7.jpg|117372
+map\multilanguage\resources\scene\1\canteen - 2_8.jpg|91656
+map\multilanguage\resources\scene\1\canteen - 2_9.jpg|140391
+map\multilanguage\resources\scene\1\canteen - 3_0.jpg|22775
+map\multilanguage\resources\scene\1\canteen - 3_1.jpg|24958
+map\multilanguage\resources\scene\1\canteen - 3_10.jpg|86716
+map\multilanguage\resources\scene\1\canteen - 3_11.jpg|110936
+map\multilanguage\resources\scene\1\canteen - 3_12.jpg|39140
+map\multilanguage\resources\scene\1\canteen - 3_13.jpg|38721
+map\multilanguage\resources\scene\1\canteen - 3_14.jpg|40904
+map\multilanguage\resources\scene\1\canteen - 3_15.jpg|45478
+map\multilanguage\resources\scene\1\canteen - 3_16.jpg|36056
+map\multilanguage\resources\scene\1\canteen - 3_17.jpg|41818
+map\multilanguage\resources\scene\1\canteen - 3_2.jpg|22079
+map\multilanguage\resources\scene\1\canteen - 3_3.jpg|23542
+map\multilanguage\resources\scene\1\canteen - 3_4.jpg|26653
+map\multilanguage\resources\scene\1\canteen - 3_5.jpg|21931
+map\multilanguage\resources\scene\1\canteen - 3_6.jpg|93852
+map\multilanguage\resources\scene\1\canteen - 3_7.jpg|67244
+map\multilanguage\resources\scene\1\canteen - 3_8.jpg|112525
+map\multilanguage\resources\scene\1\canteen - 3_9.jpg|100440
+map\multilanguage\resources\scene\1\canteen - 4_0.jpg|24559
+map\multilanguage\resources\scene\1\canteen - 4_1.jpg|25963
+map\multilanguage\resources\scene\1\canteen - 4_10.jpg|87717
+map\multilanguage\resources\scene\1\canteen - 4_11.jpg|94219
+map\multilanguage\resources\scene\1\canteen - 4_12.jpg|33036
+map\multilanguage\resources\scene\1\canteen - 4_13.jpg|34998
+map\multilanguage\resources\scene\1\canteen - 4_14.jpg|43662
+map\multilanguage\resources\scene\1\canteen - 4_15.jpg|43495
+map\multilanguage\resources\scene\1\canteen - 4_16.jpg|36647
+map\multilanguage\resources\scene\1\canteen - 4_17.jpg|36321
+map\multilanguage\resources\scene\1\canteen - 4_2.jpg|27286
+map\multilanguage\resources\scene\1\canteen - 4_3.jpg|31228
+map\multilanguage\resources\scene\1\canteen - 4_4.jpg|26834
+map\multilanguage\resources\scene\1\canteen - 4_5.jpg|26992
+map\multilanguage\resources\scene\1\canteen - 4_6.jpg|91923
+map\multilanguage\resources\scene\1\canteen - 4_7.jpg|88485
+map\multilanguage\resources\scene\1\canteen - 4_8.jpg|102392
+map\multilanguage\resources\scene\1\canteen - 4_9.jpg|97437
+map\multilanguage\resources\scene\1\celestia - beauty parlour_0.jpg|60886
+map\multilanguage\resources\scene\1\celestia - beauty parlour_1.jpg|57773
+map\multilanguage\resources\scene\1\celestia - beauty parlour_10.jpg|88681
+map\multilanguage\resources\scene\1\celestia - beauty parlour_11.jpg|81250
+map\multilanguage\resources\scene\1\celestia - beauty parlour_12.jpg|38055
+map\multilanguage\resources\scene\1\celestia - beauty parlour_13.jpg|39342
+map\multilanguage\resources\scene\1\celestia - beauty parlour_14.jpg|30337
+map\multilanguage\resources\scene\1\celestia - beauty parlour_15.jpg|40130
+map\multilanguage\resources\scene\1\celestia - beauty parlour_16.jpg|33793
+map\multilanguage\resources\scene\1\celestia - beauty parlour_17.jpg|35186
+map\multilanguage\resources\scene\1\celestia - beauty parlour_2.jpg|46553
+map\multilanguage\resources\scene\1\celestia - beauty parlour_3.jpg|46193
+map\multilanguage\resources\scene\1\celestia - beauty parlour_4.jpg|55086
+map\multilanguage\resources\scene\1\celestia - beauty parlour_5.jpg|59263
+map\multilanguage\resources\scene\1\celestia - beauty parlour_6.jpg|85613
+map\multilanguage\resources\scene\1\celestia - beauty parlour_7.jpg|97170
+map\multilanguage\resources\scene\1\celestia - beauty parlour_8.jpg|87767
+map\multilanguage\resources\scene\1\celestia - beauty parlour_9.jpg|93204
+map\multilanguage\resources\scene\1\hospital - aerial view_0.jpg|17508
+map\multilanguage\resources\scene\1\hospital - aerial view_1.jpg|17599
+map\multilanguage\resources\scene\1\hospital - aerial view_10.jpg|85226
+map\multilanguage\resources\scene\1\hospital - aerial view_11.jpg|68300
+map\multilanguage\resources\scene\1\hospital - aerial view_12.jpg|45238
+map\multilanguage\resources\scene\1\hospital - aerial view_13.jpg|56820
+map\multilanguage\resources\scene\1\hospital - aerial view_14.jpg|58055
+map\multilanguage\resources\scene\1\hospital - aerial view_15.jpg|57847
+map\multilanguage\resources\scene\1\hospital - aerial view_16.jpg|74104
+map\multilanguage\resources\scene\1\hospital - aerial view_17.jpg|51423
+map\multilanguage\resources\scene\1\hospital - aerial view_2.jpg|17577
+map\multilanguage\resources\scene\1\hospital - aerial view_3.jpg|17637
+map\multilanguage\resources\scene\1\hospital - aerial view_4.jpg|17599
+map\multilanguage\resources\scene\1\hospital - aerial view_5.jpg|17508
+map\multilanguage\resources\scene\1\hospital - aerial view_6.jpg|68539
+map\multilanguage\resources\scene\1\hospital - aerial view_7.jpg|85708
+map\multilanguage\resources\scene\1\hospital - aerial view_8.jpg|81742
+map\multilanguage\resources\scene\1\hospital - aerial view_9.jpg|87519
+map\multilanguage\resources\scene\1\hospital - exterior view_0.jpg|18049
+map\multilanguage\resources\scene\1\hospital - exterior view_1.jpg|17597
+map\multilanguage\resources\scene\1\hospital - exterior view_10.jpg|131679
+map\multilanguage\resources\scene\1\hospital - exterior view_11.jpg|124879
+map\multilanguage\resources\scene\1\hospital - exterior view_12.jpg|95231
+map\multilanguage\resources\scene\1\hospital - exterior view_13.jpg|93835
+map\multilanguage\resources\scene\1\hospital - exterior view_14.jpg|100085
+map\multilanguage\resources\scene\1\hospital - exterior view_15.jpg|96104
+map\multilanguage\resources\scene\1\hospital - exterior view_16.jpg|94211
+map\multilanguage\resources\scene\1\hospital - exterior view_17.jpg|95121
+map\multilanguage\resources\scene\1\hospital - exterior view_2.jpg|17698
+map\multilanguage\resources\scene\1\hospital - exterior view_3.jpg|17761
+map\multilanguage\resources\scene\1\hospital - exterior view_4.jpg|17680
+map\multilanguage\resources\scene\1\hospital - exterior view_5.jpg|17624
+map\multilanguage\resources\scene\1\hospital - exterior view_6.jpg|134056
+map\multilanguage\resources\scene\1\hospital - exterior view_7.jpg|129203
+map\multilanguage\resources\scene\1\hospital - exterior view_8.jpg|130250
+map\multilanguage\resources\scene\1\hospital - exterior view_9.jpg|133882
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_0.jpg|18246
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_1.jpg|18596
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_10.jpg|86958
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_11.jpg|111971
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_12.jpg|56039
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_13.jpg|56831
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_14.jpg|46509
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_15.jpg|43179
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_16.jpg|50455
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_17.jpg|52611
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_2.jpg|25643
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_3.jpg|21489
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_4.jpg|19234
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_5.jpg|18560
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_6.jpg|89903
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_7.jpg|83103
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_8.jpg|127135
+map\multilanguage\resources\scene\1\hostel - deluxe - vcw & vietw  hostel exterior veiw_9.jpg|119745
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_0.jpg|56341
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_1.jpg|42716
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_10.jpg|35180
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_11.jpg|57920
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_12.jpg|26338
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_13.jpg|26681
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_14.jpg|25952
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_15.jpg|25420
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_16.jpg|24872
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_17.jpg|26526
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_2.jpg|47866
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_3.jpg|45863
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_4.jpg|45563
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_5.jpg|59152
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_6.jpg|50175
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_7.jpg|34241
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_8.jpg|56458
+map\multilanguage\resources\scene\1\hostel - deluxe hostel corridor_9.jpg|45908
+map\multilanguage\resources\scene\1\hostel - deluxe room_0.jpg|38436
+map\multilanguage\resources\scene\1\hostel - deluxe room_1.jpg|32575
+map\multilanguage\resources\scene\1\hostel - deluxe room_10.jpg|56566
+map\multilanguage\resources\scene\1\hostel - deluxe room_11.jpg|70013
+map\multilanguage\resources\scene\1\hostel - deluxe room_12.jpg|134464
+map\multilanguage\resources\scene\1\hostel - deluxe room_13.jpg|44250
+map\multilanguage\resources\scene\1\hostel - deluxe room_14.jpg|41061
+map\multilanguage\resources\scene\1\hostel - deluxe room_15.jpg|34446
+map\multilanguage\resources\scene\1\hostel - deluxe room_16.jpg|50150
+map\multilanguage\resources\scene\1\hostel - deluxe room_17.jpg|74634
+map\multilanguage\resources\scene\1\hostel - deluxe room_2.jpg|29300
+map\multilanguage\resources\scene\1\hostel - deluxe room_3.jpg|34450
+map\multilanguage\resources\scene\1\hostel - deluxe room_4.jpg|23046
+map\multilanguage\resources\scene\1\hostel - deluxe room_5.jpg|27609
+map\multilanguage\resources\scene\1\hostel - deluxe room_6.jpg|64762
+map\multilanguage\resources\scene\1\hostel - deluxe room_7.jpg|80540
+map\multilanguage\resources\scene\1\hostel - deluxe room_8.jpg|70763
+map\multilanguage\resources\scene\1\hostel - deluxe room_9.jpg|62378
+map\multilanguage\resources\scene\1\hostel - fitness centre_0.jpg|24695
+map\multilanguage\resources\scene\1\hostel - fitness centre_1.jpg|23284
+map\multilanguage\resources\scene\1\hostel - fitness centre_10.jpg|75120
+map\multilanguage\resources\scene\1\hostel - fitness centre_11.jpg|80562
+map\multilanguage\resources\scene\1\hostel - fitness centre_12.jpg|57292
+map\multilanguage\resources\scene\1\hostel - fitness centre_13.jpg|76091
+map\multilanguage\resources\scene\1\hostel - fitness centre_14.jpg|55727
+map\multilanguage\resources\scene\1\hostel - fitness centre_15.jpg|55611
+map\multilanguage\resources\scene\1\hostel - fitness centre_16.jpg|56090
+map\multilanguage\resources\scene\1\hostel - fitness centre_17.jpg|49503
+map\multilanguage\resources\scene\1\hostel - fitness centre_2.jpg|23220
+map\multilanguage\resources\scene\1\hostel - fitness centre_3.jpg|23784
+map\multilanguage\resources\scene\1\hostel - fitness centre_4.jpg|24455
+map\multilanguage\resources\scene\1\hostel - fitness centre_5.jpg|23492
+map\multilanguage\resources\scene\1\hostel - fitness centre_6.jpg|86330
+map\multilanguage\resources\scene\1\hostel - fitness centre_7.jpg|74419
+map\multilanguage\resources\scene\1\hostel - fitness centre_8.jpg|82750
+map\multilanguage\resources\scene\1\hostel - fitness centre_9.jpg|95485
+map\multilanguage\resources\scene\1\hostel - kitchen_0.jpg|38349
+map\multilanguage\resources\scene\1\hostel - kitchen_1.jpg|34357
+map\multilanguage\resources\scene\1\hostel - kitchen_10.jpg|84022
+map\multilanguage\resources\scene\1\hostel - kitchen_11.jpg|71387
+map\multilanguage\resources\scene\1\hostel - kitchen_12.jpg|36467
+map\multilanguage\resources\scene\1\hostel - kitchen_13.jpg|39100
+map\multilanguage\resources\scene\1\hostel - kitchen_14.jpg|48083
+map\multilanguage\resources\scene\1\hostel - kitchen_15.jpg|44563
+map\multilanguage\resources\scene\1\hostel - kitchen_16.jpg|38542
+map\multilanguage\resources\scene\1\hostel - kitchen_17.jpg|43203
+map\multilanguage\resources\scene\1\hostel - kitchen_2.jpg|33439
+map\multilanguage\resources\scene\1\hostel - kitchen_3.jpg|31878
+map\multilanguage\resources\scene\1\hostel - kitchen_4.jpg|33115
+map\multilanguage\resources\scene\1\hostel - kitchen_5.jpg|38318
+map\multilanguage\resources\scene\1\hostel - kitchen_6.jpg|74758
+map\multilanguage\resources\scene\1\hostel - kitchen_7.jpg|73383
+map\multilanguage\resources\scene\1\hostel - kitchen_8.jpg|90966
+map\multilanguage\resources\scene\1\hostel - kitchen_9.jpg|106159
+map\multilanguage\resources\scene\1\hostel - model room_0.jpg|20677
+map\multilanguage\resources\scene\1\hostel - model room_1.jpg|22243
+map\multilanguage\resources\scene\1\hostel - model room_10.jpg|33662
+map\multilanguage\resources\scene\1\hostel - model room_11.jpg|65339
+map\multilanguage\resources\scene\1\hostel - model room_12.jpg|53971
+map\multilanguage\resources\scene\1\hostel - model room_13.jpg|52468
+map\multilanguage\resources\scene\1\hostel - model room_14.jpg|55619
+map\multilanguage\resources\scene\1\hostel - model room_15.jpg|44558
+map\multilanguage\resources\scene\1\hostel - model room_16.jpg|39584
+map\multilanguage\resources\scene\1\hostel - model room_17.jpg|51086
+map\multilanguage\resources\scene\1\hostel - model room_2.jpg|23209
+map\multilanguage\resources\scene\1\hostel - model room_3.jpg|20710
+map\multilanguage\resources\scene\1\hostel - model room_4.jpg|19222
+map\multilanguage\resources\scene\1\hostel - model room_5.jpg|21591
+map\multilanguage\resources\scene\1\hostel - model room_6.jpg|60327
+map\multilanguage\resources\scene\1\hostel - model room_7.jpg|52265
+map\multilanguage\resources\scene\1\hostel - model room_8.jpg|66619
+map\multilanguage\resources\scene\1\hostel - model room_9.jpg|49302
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_0.jpg|21959
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_1.jpg|21227
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_10.jpg|114774
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_11.jpg|100723
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_12.jpg|83792
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_13.jpg|82858
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_14.jpg|90186
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_15.jpg|81947
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_16.jpg|81696
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_17.jpg|78242
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_2.jpg|27160
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_3.jpg|22057
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_4.jpg|21449
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_5.jpg|26019
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_6.jpg|83779
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_7.jpg|82736
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_8.jpg|118132
+map\multilanguage\resources\scene\1\hostel - pg hostel - exterior view_9.jpg|99096
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_0.jpg|27358
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_1.jpg|29463
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_10.jpg|76752
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_11.jpg|76566
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_12.jpg|32480
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_13.jpg|44747
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_14.jpg|29153
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_15.jpg|30427
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_16.jpg|38252
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_17.jpg|30629
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_2.jpg|29543
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_3.jpg|27234
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_4.jpg|31076
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_5.jpg|27101
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_6.jpg|92214
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_7.jpg|84451
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_8.jpg|82371
+map\multilanguage\resources\scene\1\hostel - pg hostel dining hall_9.jpg|83157
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_0.jpg|36889
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_1.jpg|56166
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_10.jpg|80542
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_11.jpg|90923
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_12.jpg|50651
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_13.jpg|47963
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_14.jpg|47869
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_15.jpg|53031
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_16.jpg|51841
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_17.jpg|51904
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_2.jpg|54516
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_3.jpg|30893
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_4.jpg|54599
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_5.jpg|54795
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_6.jpg|105503
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_7.jpg|86432
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_8.jpg|96950
+map\multilanguage\resources\scene\1\hostel - pg hostel inner view_9.jpg|103218
+map\multilanguage\resources\scene\1\hostel - pg hostel room_0.jpg|30028
+map\multilanguage\resources\scene\1\hostel - pg hostel room_1.jpg|35354
+map\multilanguage\resources\scene\1\hostel - pg hostel room_10.jpg|56240
+map\multilanguage\resources\scene\1\hostel - pg hostel room_11.jpg|71712
+map\multilanguage\resources\scene\1\hostel - pg hostel room_12.jpg|107434
+map\multilanguage\resources\scene\1\hostel - pg hostel room_13.jpg|69593
+map\multilanguage\resources\scene\1\hostel - pg hostel room_14.jpg|139270
+map\multilanguage\resources\scene\1\hostel - pg hostel room_15.jpg|90936
+map\multilanguage\resources\scene\1\hostel - pg hostel room_16.jpg|46001
+map\multilanguage\resources\scene\1\hostel - pg hostel room_17.jpg|115867
+map\multilanguage\resources\scene\1\hostel - pg hostel room_2.jpg|43807
+map\multilanguage\resources\scene\1\hostel - pg hostel room_3.jpg|52243
+map\multilanguage\resources\scene\1\hostel - pg hostel room_4.jpg|31005
+map\multilanguage\resources\scene\1\hostel - pg hostel room_5.jpg|28700
+map\multilanguage\resources\scene\1\hostel - pg hostel room_6.jpg|71990
+map\multilanguage\resources\scene\1\hostel - pg hostel room_7.jpg|45628
+map\multilanguage\resources\scene\1\hostel - pg hostel room_8.jpg|78389
+map\multilanguage\resources\scene\1\hostel - pg hostel room_9.jpg|67800
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_0.jpg|21478
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_1.jpg|21312
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_10.jpg|90534
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_11.jpg|79860
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_12.jpg|48655
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_13.jpg|43915
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_14.jpg|49662
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_15.jpg|49970
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_16.jpg|52399
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_17.jpg|45986
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_2.jpg|21985
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_3.jpg|21766
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_4.jpg|21132
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_5.jpg|20987
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_6.jpg|86163
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_7.jpg|72267
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_8.jpg|99717
+map\multilanguage\resources\scene\1\hostel - reception & phone booth_9.jpg|91861
+map\multilanguage\resources\scene\1\hostel - tv hall_0.jpg|21106
+map\multilanguage\resources\scene\1\hostel - tv hall_1.jpg|21643
+map\multilanguage\resources\scene\1\hostel - tv hall_10.jpg|70688
+map\multilanguage\resources\scene\1\hostel - tv hall_11.jpg|56192
+map\multilanguage\resources\scene\1\hostel - tv hall_12.jpg|28224
+map\multilanguage\resources\scene\1\hostel - tv hall_13.jpg|34409
+map\multilanguage\resources\scene\1\hostel - tv hall_14.jpg|43554
+map\multilanguage\resources\scene\1\hostel - tv hall_15.jpg|45245
+map\multilanguage\resources\scene\1\hostel - tv hall_16.jpg|30123
+map\multilanguage\resources\scene\1\hostel - tv hall_17.jpg|27301
+map\multilanguage\resources\scene\1\hostel - tv hall_2.jpg|23641
+map\multilanguage\resources\scene\1\hostel - tv hall_3.jpg|27012
+map\multilanguage\resources\scene\1\hostel - tv hall_4.jpg|23265
+map\multilanguage\resources\scene\1\hostel - tv hall_5.jpg|21006
+map\multilanguage\resources\scene\1\hostel - tv hall_6.jpg|52365
+map\multilanguage\resources\scene\1\hostel - tv hall_7.jpg|58632
+map\multilanguage\resources\scene\1\hostel - tv hall_8.jpg|90148
+map\multilanguage\resources\scene\1\hostel - tv hall_9.jpg|100449
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_0.jpg|25137
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_1.jpg|27724
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_10.jpg|142258
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_11.jpg|131641
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_12.jpg|99030
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_13.jpg|102477
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_14.jpg|104485
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_15.jpg|103141
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_16.jpg|103593
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_17.jpg|100595
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_2.jpg|28490
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_3.jpg|27664
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_4.jpg|25961
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_5.jpg|23493
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_6.jpg|132927
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_7.jpg|124065
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_8.jpg|129736
+map\multilanguage\resources\scene\1\hostel - ug hostel  inner view_9.jpg|137044
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_0.jpg|40563
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_1.jpg|38569
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_10.jpg|103720
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_11.jpg|103771
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_12.jpg|65837
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_13.jpg|71207
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_14.jpg|71277
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_15.jpg|67371
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_16.jpg|63789
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_17.jpg|66719
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_2.jpg|37109
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_3.jpg|37985
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_4.jpg|40976
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_5.jpg|43678
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_6.jpg|100661
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_7.jpg|93435
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_8.jpg|108214
+map\multilanguage\resources\scene\1\hostel - ug hostel dining hall_9.jpg|111366
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_0.jpg|18670
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_1.jpg|17847
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_10.jpg|83683
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_11.jpg|95448
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_12.jpg|84297
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_13.jpg|75497
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_14.jpg|96397
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_15.jpg|91758
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_16.jpg|83648
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_17.jpg|92007
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_2.jpg|17820
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_3.jpg|17636
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_4.jpg|17985
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_5.jpg|17916
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_6.jpg|147370
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_7.jpg|129781
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_8.jpg|121592
+map\multilanguage\resources\scene\1\hostel - ug hostel exterior view_9.jpg|127725
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_0.jpg|22622
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_1.jpg|36222
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_10.jpg|63050
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_11.jpg|72168
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_12.jpg|46605
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_13.jpg|46660
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_14.jpg|48474
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_15.jpg|47176
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_16.jpg|45337
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_17.jpg|46034
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_2.jpg|23587
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_3.jpg|25957
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_4.jpg|31428
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_5.jpg|25409
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_6.jpg|63985
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_7.jpg|55644
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_8.jpg|83160
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - board room_9.jpg|92307
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_0.jpg|28563
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_1.jpg|29106
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_10.jpg|80145
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_11.jpg|87870
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_12.jpg|39433
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_13.jpg|51364
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_14.jpg|44342
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_15.jpg|44802
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_16.jpg|63146
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_17.jpg|46361
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_2.jpg|30138
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_3.jpg|30744
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_4.jpg|33321
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_5.jpg|28880
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_6.jpg|89483
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_7.jpg|90095
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_8.jpg|90263
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - chemistry lab_9.jpg|88978
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_0.jpg|26108
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_1.jpg|25393
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_10.jpg|69983
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_11.jpg|58720
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_12.jpg|36416
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_13.jpg|39446
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_14.jpg|39304
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_15.jpg|43448
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_16.jpg|34828
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_17.jpg|34542
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_2.jpg|26225
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_3.jpg|26400
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_4.jpg|26717
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_5.jpg|27279
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_6.jpg|42056
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_7.jpg|60906
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_8.jpg|74968
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - class room_9.jpg|88382
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_0.jpg|27669
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_1.jpg|29622
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_10.jpg|69471
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_11.jpg|98275
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_12.jpg|30691
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_13.jpg|29378
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_14.jpg|28922
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_15.jpg|27347
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_16.jpg|27161
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_17.jpg|31168
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_2.jpg|28746
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_3.jpg|30325
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_4.jpg|27537
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_5.jpg|28140
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_6.jpg|93796
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_7.jpg|55931
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_8.jpg|98015
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - college seminar hall_9.jpg|90519
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_0.jpg|32274
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_1.jpg|32753
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_10.jpg|87918
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_11.jpg|87768
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_12.jpg|36044
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_13.jpg|40222
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_14.jpg|36927
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_15.jpg|37165
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_16.jpg|41221
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_17.jpg|36768
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_2.jpg|30983
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_3.jpg|31342
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_4.jpg|28535
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_5.jpg|28012
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_6.jpg|88659
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_7.jpg|60610
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_8.jpg|76572
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - communication lab_9.jpg|95442
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_0.jpg|18784
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_1.jpg|18383
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_10.jpg|86397
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_11.jpg|83319
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_12.jpg|32789
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_13.jpg|41982
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_14.jpg|34659
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_15.jpg|36574
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_16.jpg|43555
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_17.jpg|39974
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_2.jpg|18591
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_3.jpg|19033
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_4.jpg|18149
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_5.jpg|18348
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_6.jpg|77473
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_7.jpg|62266
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_8.jpg|87173
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - cse lab_9.jpg|81455
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_0.jpg|26179
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_1.jpg|24180
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_10.jpg|78809
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_11.jpg|76773
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_12.jpg|40913
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_13.jpg|37771
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_14.jpg|47249
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_15.jpg|36605
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_16.jpg|31469
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_17.jpg|31322
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_2.jpg|26848
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_3.jpg|25130
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_4.jpg|25476
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_5.jpg|24743
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_6.jpg|88274
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_7.jpg|67427
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_8.jpg|94499
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - electrical machines lab_9.jpg|90374
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_0.jpg|23238
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_1.jpg|22274
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_10.jpg|63675
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_11.jpg|61067
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_12.jpg|36237
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_13.jpg|37922
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_14.jpg|36246
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_15.jpg|35686
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_16.jpg|35216
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_17.jpg|37061
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_2.jpg|22237
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_3.jpg|21412
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_4.jpg|22539
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_5.jpg|23484
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_6.jpg|81624
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_7.jpg|83248
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_8.jpg|71101
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - engineering practice lab_9.jpg|65117
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_0.jpg|18297
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_1.jpg|17506
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_10.jpg|84588
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_11.jpg|71712
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_12.jpg|55586
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_13.jpg|64780
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_14.jpg|54009
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_15.jpg|57630
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_16.jpg|66976
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_17.jpg|60146
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_2.jpg|17682
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_3.jpg|17590
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_4.jpg|17385
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_5.jpg|17573
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_6.jpg|93508
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_7.jpg|91041
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_8.jpg|84154
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - exterior view_9.jpg|81058
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_0.jpg|22224
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_1.jpg|23063
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_10.jpg|79784
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_11.jpg|74216
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_12.jpg|30832
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_13.jpg|35983
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_14.jpg|33766
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_15.jpg|31862
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_16.jpg|36908
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_17.jpg|29535
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_2.jpg|21594
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_3.jpg|22470
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_4.jpg|22009
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_5.jpg|22044
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_6.jpg|73747
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_7.jpg|66748
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_8.jpg|62806
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - information technology lab_9.jpg|72812
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_0.jpg|24569
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_1.jpg|25339
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_10.jpg|76468
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_11.jpg|67829
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_12.jpg|27498
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_13.jpg|27359
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_14.jpg|29779
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_15.jpg|30073
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_16.jpg|28265
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_17.jpg|25697
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_2.jpg|25416
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_3.jpg|26006
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_4.jpg|25890
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_5.jpg|24345
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_6.jpg|77494
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_7.jpg|94136
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_8.jpg|78195
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - library_9.jpg|79159
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_0.jpg|22272
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_1.jpg|22454
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_10.jpg|80527
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_11.jpg|64080
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_12.jpg|32284
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_13.jpg|32100
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_14.jpg|30463
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_15.jpg|32000
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_16.jpg|33957
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_17.jpg|32101
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_2.jpg|22751
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_3.jpg|22422
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_4.jpg|23657
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_5.jpg|23122
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_6.jpg|66719
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_7.jpg|69954
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_8.jpg|68427
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - lic & power electronics lab_9.jpg|67888
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_0.jpg|24960
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_1.jpg|24111
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_10.jpg|73621
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_11.jpg|48766
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_12.jpg|37009
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_13.jpg|37481
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_14.jpg|39208
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_15.jpg|40397
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_16.jpg|35721
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_17.jpg|32858
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_2.jpg|22385
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_3.jpg|22728
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_4.jpg|23989
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_5.jpg|24301
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_6.jpg|58854
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_7.jpg|73523
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_8.jpg|61935
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - measurement instrumentation & control systems lab_9.jpg|65161
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_0.jpg|27611
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_1.jpg|26657
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_10.jpg|67252
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_11.jpg|68556
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_12.jpg|37959
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_13.jpg|32708
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_14.jpg|36076
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_15.jpg|36174
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_16.jpg|32780
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_17.jpg|36802
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_2.jpg|26527
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_3.jpg|27939
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_4.jpg|29275
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_5.jpg|28728
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_6.jpg|72107
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_7.jpg|64880
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_8.jpg|71320
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & micro controller lab_9.jpg|76170
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_0.jpg|33399
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_1.jpg|33734
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_10.jpg|89739
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_11.jpg|97583
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_12.jpg|42985
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_13.jpg|48489
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_14.jpg|42692
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_15.jpg|41160
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_16.jpg|52176
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_17.jpg|45266
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_2.jpg|36849
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_3.jpg|42428
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_4.jpg|41754
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_5.jpg|39562
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_6.jpg|104039
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_7.jpg|87185
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_8.jpg|97490
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - microprocessor & network simulation lab_9.jpg|93650
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_0.jpg|32621
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_1.jpg|38703
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_10.jpg|82601
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_11.jpg|72466
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_12.jpg|43763
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_13.jpg|41873
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_14.jpg|37875
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_15.jpg|41093
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_16.jpg|40076
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_17.jpg|39770
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_2.jpg|27509
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_3.jpg|24552
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_4.jpg|25431
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_5.jpg|26346
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_6.jpg|86377
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_7.jpg|78337
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_8.jpg|76831
+map\multilanguage\resources\scene\1\inst of engg & tech - vietw - physics  lab_9.jpg|78776
+map\multilanguage\resources\scene\1\sports - basket ball court_0.jpg|21400
+map\multilanguage\resources\scene\1\sports - basket ball court_1.jpg|19082
+map\multilanguage\resources\scene\1\sports - basket ball court_10.jpg|89276
+map\multilanguage\resources\scene\1\sports - basket ball court_11.jpg|117312
+map\multilanguage\resources\scene\1\sports - basket ball court_12.jpg|58782
+map\multilanguage\resources\scene\1\sports - basket ball court_13.jpg|78189
+map\multilanguage\resources\scene\1\sports - basket ball court_14.jpg|78360
+map\multilanguage\resources\scene\1\sports - basket ball court_15.jpg|62781
+map\multilanguage\resources\scene\1\sports - basket ball court_16.jpg|52152
+map\multilanguage\resources\scene\1\sports - basket ball court_17.jpg|49778
+map\multilanguage\resources\scene\1\sports - basket ball court_2.jpg|18421
+map\multilanguage\resources\scene\1\sports - basket ball court_3.jpg|19016
+map\multilanguage\resources\scene\1\sports - basket ball court_4.jpg|20371
+map\multilanguage\resources\scene\1\sports - basket ball court_5.jpg|20979
+map\multilanguage\resources\scene\1\sports - basket ball court_6.jpg|138094
+map\multilanguage\resources\scene\1\sports - basket ball court_7.jpg|93154
+map\multilanguage\resources\scene\1\sports - basket ball court_8.jpg|106862
+map\multilanguage\resources\scene\1\sports - basket ball court_9.jpg|104469
+map\multilanguage\resources\scene\1\sports - physical eduation department_0.jpg|38705
+map\multilanguage\resources\scene\1\sports - physical eduation department_1.jpg|36750
+map\multilanguage\resources\scene\1\sports - physical eduation department_10.jpg|104175
+map\multilanguage\resources\scene\1\sports - physical eduation department_11.jpg|140518
+map\multilanguage\resources\scene\1\sports - physical eduation department_12.jpg|49719
+map\multilanguage\resources\scene\1\sports - physical eduation department_13.jpg|57655
+map\multilanguage\resources\scene\1\sports - physical eduation department_14.jpg|61919
+map\multilanguage\resources\scene\1\sports - physical eduation department_15.jpg|56133
+map\multilanguage\resources\scene\1\sports - physical eduation department_16.jpg|48616
+map\multilanguage\resources\scene\1\sports - physical eduation department_17.jpg|43630
+map\multilanguage\resources\scene\1\sports - physical eduation department_2.jpg|46842
+map\multilanguage\resources\scene\1\sports - physical eduation department_3.jpg|41951
+map\multilanguage\resources\scene\1\sports - physical eduation department_4.jpg|40627
+map\multilanguage\resources\scene\1\sports - physical eduation department_5.jpg|36050
+map\multilanguage\resources\scene\1\sports - physical eduation department_6.jpg|64657
+map\multilanguage\resources\scene\1\sports - physical eduation department_7.jpg|79694
+map\multilanguage\resources\scene\1\sports - physical eduation department_8.jpg|52493
+map\multilanguage\resources\scene\1\sports - physical eduation department_9.jpg|66831
+map\multilanguage\resources\scene\1\sports - play ground_0.jpg|19694
+map\multilanguage\resources\scene\1\sports - play ground_1.jpg|19126
+map\multilanguage\resources\scene\1\sports - play ground_10.jpg|115653
+map\multilanguage\resources\scene\1\sports - play ground_11.jpg|105856
+map\multilanguage\resources\scene\1\sports - play ground_12.jpg|146538
+map\multilanguage\resources\scene\1\sports - play ground_13.jpg|153545
+map\multilanguage\resources\scene\1\sports - play ground_14.jpg|154882
+map\multilanguage\resources\scene\1\sports - play ground_15.jpg|164113
+map\multilanguage\resources\scene\1\sports - play ground_16.jpg|161118
+map\multilanguage\resources\scene\1\sports - play ground_17.jpg|158092
+map\multilanguage\resources\scene\1\sports - play ground_2.jpg|18892
+map\multilanguage\resources\scene\1\sports - play ground_3.jpg|18110
+map\multilanguage\resources\scene\1\sports - play ground_4.jpg|18630
+map\multilanguage\resources\scene\1\sports - play ground_5.jpg|18755
+map\multilanguage\resources\scene\1\sports - play ground_6.jpg|96575
+map\multilanguage\resources\scene\1\sports - play ground_7.jpg|123615
+map\multilanguage\resources\scene\1\sports - play ground_8.jpg|105100
+map\multilanguage\resources\scene\1\sports - play ground_9.jpg|120258
+map\multilanguage\resources\scene\1\transport facilities_0.jpg|18333
+map\multilanguage\resources\scene\1\transport facilities_1.jpg|21763
+map\multilanguage\resources\scene\1\transport facilities_10.jpg|97571
+map\multilanguage\resources\scene\1\transport facilities_11.jpg|79323
+map\multilanguage\resources\scene\1\transport facilities_12.jpg|34162
+map\multilanguage\resources\scene\1\transport facilities_13.jpg|54116
+map\multilanguage\resources\scene\1\transport facilities_14.jpg|72306
+map\multilanguage\resources\scene\1\transport facilities_15.jpg|76219
+map\multilanguage\resources\scene\1\transport facilities_16.jpg|71214
+map\multilanguage\resources\scene\1\transport facilities_17.jpg|38582
+map\multilanguage\resources\scene\1\transport facilities_2.jpg|18505
+map\multilanguage\resources\scene\1\transport facilities_3.jpg|17079
+map\multilanguage\resources\scene\1\transport facilities_4.jpg|18683
+map\multilanguage\resources\scene\1\transport facilities_5.jpg|20172
+map\multilanguage\resources\scene\1\transport facilities_6.jpg|66137
+map\multilanguage\resources\scene\1\transport facilities_7.jpg|74226
+map\multilanguage\resources\scene\1\transport facilities_8.jpg|126546
+map\multilanguage\resources\scene\1\transport facilities_9.jpg|114391
+map\multilanguage\resources\scene\1\pre_1_inst of engg & tech - vietw - electronic circuits lab.jpg|34992
+map\multilanguage\resources\scene\1\pre_auditorium - over view.jpg|47744
+map\multilanguage\resources\scene\1\pre_auditorium exterior view.jpg|33483
+map\multilanguage\resources\scene\1\pre_auditorium.jpg|55737
+map\multilanguage\resources\scene\1\pre_canteen - 1.jpg|38951
+map\multilanguage\resources\scene\1\pre_canteen - 2.jpg|42563
+map\multilanguage\resources\scene\1\pre_canteen - 3.jpg|39926
+map\multilanguage\resources\scene\1\pre_canteen - 4.jpg|42086
+map\multilanguage\resources\scene\1\pre_celestia - beauty parlour.jpg|47600
+map\multilanguage\resources\scene\1\pre_hospital - aerial view.jpg|34299
+map\multilanguage\resources\scene\1\pre_hospital - exterior view.jpg|38168
+map\multilanguage\resources\scene\1\pre_hostel - deluxe - vcw & vietw  hostel exterior veiw.jpg|30672
+map\multilanguage\resources\scene\1\pre_hostel - deluxe hostel corridor.jpg|33381
+map\multilanguage\resources\scene\1\pre_hostel - deluxe room.jpg|33676
+map\multilanguage\resources\scene\1\pre_hostel - fitness centre.jpg|39745
+map\multilanguage\resources\scene\1\pre_hostel - kitchen.jpg|41631
+map\multilanguage\resources\scene\1\pre_hostel - model room.jpg|32552
+map\multilanguage\resources\scene\1\pre_hostel - pg hostel - exterior view.jpg|41565
+map\multilanguage\resources\scene\1\pre_hostel - pg hostel dining hall.jpg|38524
+map\multilanguage\resources\scene\1\pre_hostel - pg hostel inner view.jpg|48844
+map\multilanguage\resources\scene\1\pre_hostel - pg hostel room.jpg|41094
+map\multilanguage\resources\scene\1\pre_hostel - reception & phone booth.jpg|42112
+map\multilanguage\resources\scene\1\pre_hostel - tv hall.jpg|31964
+map\multilanguage\resources\scene\1\pre_hostel - ug hostel  inner view.jpg|47947
+map\multilanguage\resources\scene\1\pre_hostel - ug hostel dining hall.jpg|54419
+map\multilanguage\resources\scene\1\pre_hostel - ug hostel exterior view.jpg|31571
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - board room.jpg|39695
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - chemistry lab.jpg|40585
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - class room.jpg|33067
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - college seminar hall.jpg|34173
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - communication lab.jpg|43680
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - cse lab.jpg|36636
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - electrical machines lab.jpg|37999
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - engineering practice lab.jpg|32161
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - exterior view.jpg|24845
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - information technology lab.jpg|35239
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - library.jpg|34128
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - lic & power electronics lab.jpg|30849
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - measurement instrumentation & control systems lab.jpg|30948
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - microprocessor & micro controller lab.jpg|34115
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - microprocessor & network simulation lab.jpg|46779
+map\multilanguage\resources\scene\1\pre_inst of engg & tech - vietw - physics  lab.jpg|37230
+map\multilanguage\resources\scene\1\pre_sports - basket ball court.jpg|37088
+map\multilanguage\resources\scene\1\pre_sports - physical eduation department.jpg|36797
+map\multilanguage\resources\scene\1\pre_sports - play ground.jpg|37421
+map\multilanguage\resources\scene\1\pre_transport facilities.jpg|35672
+map\multilanguage\resources\scene\1\sounds\system_bgsound_system_bgsound_system_bgsound_adg3.com_cloudlessdays.mp3|255639
+map\multilanguage\resources\scene\1\sounds\swfobject.js|6880
+map\multilanguage\resources\scene\1\sounds\thumb.jpg|128129
+map\multilanguage\resources\scene\1\sounds\TourWeaver_VIETW.html|2406
+map\multilanguage\resources\scene\1\sounds\twviewer.swf|320442
+map\multilanguage\resources\scene\1\sounds\VIETW.html|1200
